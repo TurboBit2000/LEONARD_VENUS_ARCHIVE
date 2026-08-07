@@ -16,4 +16,19 @@ I get that the bass drones repetitively with intention, but it coukd also have s
 
 Hope some of that may be useful to you. This is the coolest thing I've heard all week so I hope you'll keep developing ideas like this!
 
+# LV006 PIANODRILL Feedback
+
+Source:
+Reddit listener
+
+Problems:
+- bass/piano cohesion
+- random transitions
+- lack of rhythmic evolution
+
+Applied:
+- send bus
+- cleaner frequency space
+- final drop drum variation
+
 Edit: I'm not sire why some of those format as sub-bullet points - thetly are all written as stand alone
