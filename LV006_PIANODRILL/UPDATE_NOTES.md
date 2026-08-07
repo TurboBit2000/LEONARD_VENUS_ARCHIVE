@@ -4,3 +4,11 @@ Reddit feedback applied:
 - only fine drop.
 - kick adds.
 - drop rhytm variations.
+
+FINAL_RELEASE_NOTES.md
+
+Before:
+Reddit feedback
+
+After:
+Applied changes
