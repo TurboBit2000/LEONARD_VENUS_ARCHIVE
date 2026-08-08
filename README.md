@@ -1,28 +1,65 @@
-LEONARD_VENUS_ARCHIVE
+# LEONARD VENUS ARCHIVE
 
-README.md
+Personal operating system for:
 
-Vision:
-A personal operating system
-for worlds, music, stories and experiments.
+- Worlds
+- Music
+- Stories
+- Biology
+- Experiments
 
-Projects:
 
-WORLD2:
-A lost Heroes IV world reconstructed.
+## Vision
 
-Leonard Venus Music:
+Ideas are prototypes of future realities.
+
+Every project evolves through versions.
+
+
+## Projects
+
+
+## WORLD2
+
+A reconstructed lost Heroes IV world.
+
+Fantasy.
+Technology.
+Memory.
+
+
+## BASE_WORLD
+
+Minimal multiplayer experiments.
+
+Small worlds.
+Simple rules.
+Emergent gameplay.
+
+
+## LEONARD VENUS MUSIC
+
 Experimental electronic archive.
 
-Stories:
+Versions.
+Fragments.
+Releases.
+
+
+## STORIES
+
 Future fragments.
 
-## Philosophy
+Characters.
+Worlds.
+Narratives.
 
-Ideas are prototypes.
 
-Prototypes become artifacts.
+## BIO ARCHIVE
 
-Artifacts become worlds.
+Personal performance research.
 
-Worlds evolve through versions.
+BJJ.
+Nutrition.
+Training.
+Experiments.
